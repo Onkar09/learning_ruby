@@ -154,3 +154,12 @@ number = gets.chomp.to_i
 game = Start.new
 game.make_player(number)
 game.play(game.players)
+
+
+
+
+
+
+
+
+
